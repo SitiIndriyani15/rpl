@@ -188,8 +188,8 @@ public class OnlineShop{
 
 		System.out.println("");
 		System.out.println(text);
-		System.out.println("Silahkan lanjutkan pembayaran paling lambat 1*24 jam, jika lebih dari waktu yang ditentukan makan pesanan akan tercancel.");
-		System.out.println("Terimaksih, Sudah Berbelanja.Semoga Hari Anda Menyenangkan ^-^");
+		System.out.println("Silahkan lanjutkan pembayaran paling lambat 1*24 jam, jika lebih dari waktu yang telah ditentukan maka pesanan Anda akan tercancel.");
+		System.out.println("Terimakasih, Sudah Berbelanja. Semoga Hari Anda Menyenangkan ^-^");
 
 	}
 
